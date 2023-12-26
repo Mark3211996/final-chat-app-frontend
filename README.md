@@ -1,4 +1,4 @@
-# final-chat-app-frontend
+# chat-app-frontend
 
 ## Project setup
 ```
